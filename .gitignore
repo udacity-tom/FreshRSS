@@ -6,6 +6,10 @@
 /data.back/
 /constants.local.php
 
+# My Files
+.misc.txt
+
+
 .vscode/
 
 # Temp files
